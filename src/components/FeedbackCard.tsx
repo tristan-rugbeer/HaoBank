@@ -1,4 +1,3 @@
-import React from 'react'
 import { quotes } from '../assets'
 
 const FeedbackCard = (props: {key:string, content:string, name:string, title:string, img:string}) => {

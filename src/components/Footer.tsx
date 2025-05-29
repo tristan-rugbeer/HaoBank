@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { logo } from '../assets'
 import { footerLinks, socialMedia } from '../constants'
 import styles from '../style'

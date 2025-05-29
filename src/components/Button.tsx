@@ -1,4 +1,3 @@
-import React from 'react'
 
 const Button = (props: { styles: string }) => {
   return (
